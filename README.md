@@ -1,4 +1,4 @@
-# Camoground
+# Campground
 
 Campground website can be used to search differnt campgorund across globe.
 
